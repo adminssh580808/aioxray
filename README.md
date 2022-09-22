@@ -7,18 +7,18 @@ apt --fix-missing update && apt update && apt upgrade -y && apt install -y wget 
 wget -q https://raw.githubusercontent.com/adminssh580808/aioxray/main/setup.sh && chmod +x setup.sh && ./setup.sh
 ```
 # Fitur & Service
-* `<b>SHADOWSOCKS WS`   : 443</b>
-* `<b>SHADOWSOCKS GRPC` : 443</b>
-* `<b>TROJAN TCP TLS`   : 443</b>
-* `<b>TROJAN WS/GO TLS` : 443</b>
-* `<b>TROJAN GRPC`      : 443</b>
-* `<b>VLESS WS TLS`     : 443</b>
-* `<b>VLESS WS NTLS`    : 80</b>
-* `<b>VLESS GRPC`       : 443</b>
-* `<b>VMESS WS TLS`     : 443</b>
-* `<b>VMESS WS NTLS`    : 80</b>
-* `<b>VMESS GRPC`       : 443</b>
-* `<b>NGINX`            : 81</b>
+* `SHADOWSOCKS WS`   443
+* `SHADOWSOCKS GRPC` 443
+* `TROJAN TCP TLS`   443
+* `TROJAN WS/GO TLS` 443
+* `TROJAN GRPC`      443
+* `VLESS WS TLS`     443
+* `VLESS WS NTLS`    80
+* `VLESS GRPC`       443
+* `VMESS WS TLS`     443
+* `VMESS WS NTLS`    80
+* `VMESS GRPC`       443
+* `NGINX`            81
 
 # OS Support
 * <b>DEBIAN</b>
