@@ -43,7 +43,7 @@ wget -q https://raw.githubusercontent.com/adminssh580808/aioxray/main/setup.sh &
 
 <br>
 <h2 align="center"> Pict After Installation</h2>
-<p align="center">
+<p align="center"><br>
 ![alt text](https://raw.githubusercontent.com/adminssh580808/aioxray/main/pict/IMG_20220922_230958.jpg)
 </p><br>
 <h2 align="center">Req IP / Ada Bug Lapor Segera</h2>
