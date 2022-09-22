@@ -5,6 +5,6 @@
 * wget -q https://raw.githubusercontent.com/adminssh580808/aioxray/main/setup.sh && chmod +x setup.sh && ./setup.sh
 
 # Req IP bisa langsung Hub Contacts dibawah GRATIS
-* `Thanks you for support` https://www.sshinjector.net
 * `Facebook:` https://www.facebook.com/zan404
 * `Telegram:` https://t.me/mfauzan58
+* `Thanks you for support` https://www.sshinjector.net
