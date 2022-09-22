@@ -42,10 +42,10 @@ wget -q https://raw.githubusercontent.com/adminssh580808/aioxray/main/setup.sh &
 * `VMESS GRPC`         : 443
 
 <br>
-<h2 align="center"> Pict After Installation</h2>
-<center>
+# Pict After Installation
+
 ![alt text](https://raw.githubusercontent.com/adminssh580808/aioxray/main/pict/IMG_20220922_230958.jpg)
-</center><br>
+<br>
 <h2 align="center">Req IP / Ada Bug Lapor Segera</h2>
 <b><p align="center">Contact Me</b>
 <p align="center"><b>Facebook</b>
