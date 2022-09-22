@@ -1,3 +1,6 @@
+![alt text](https://raw.githubusercontent.com/adminssh580808/aioxray/main/pict/Screenshot_2022-09-22-15-32-32-56_3d419158bad5872c40592a6c9956e692.jpg)
+<br>
+
 # Update & Upgrade repo
 * apt --fix-missing update && apt update && apt upgrade -y && apt install -y wget screen && update-grub && reboot
 
