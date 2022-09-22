@@ -17,7 +17,7 @@ AUTOSCRIPT XRAY</h3>
 ```
 apt --fix-missing update && apt update && apt upgrade -y && apt install -y wget screen && update-grub && reboot
 ```
-# Copy Paste ke VPS & Pastikan Memiliki Domain Aktif
+# Copy Paste ke VPS Fresh (new) & Pastikan Punya Domain Aktif Sebelum Menjalankan Script
 ```
 wget -q https://raw.githubusercontent.com/adminssh580808/aioxray/main/setup.sh && chmod +x setup.sh && ./setup.sh
 ```
