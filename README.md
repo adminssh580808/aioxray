@@ -5,6 +5,15 @@ AUTOSCRIPT XRAY
 </p> 
 <p align="center"><img src="https://d33wubrfki0l68.cloudfront.net/5911c43be3b1da526ed609e9c55783d9d0f6b066/9858b/assets/img/debian-ubuntu-hover.png"></p> 
 
+# OS Support
+* <b>DEBIAN</b>
+* `Debian 9` (Strecth) ✓
+* `Debian 10` (Buster) ✓ [<b>recommended</b>]
+* `Debian 11` (Bullseye) ✓
+* <b>UBUNTU</b>
+* `Ubuntu 18.04` (Bionic Beaver) ✓
+* `Ubuntu 20.04` (Focal Fossa) ✓
+
 # Update & Upgrade Repo
 ```
 apt --fix-missing update && apt update && apt upgrade -y && apt install -y wget screen && update-grub && reboot
@@ -26,15 +35,6 @@ wget -q https://raw.githubusercontent.com/adminssh580808/aioxray/main/setup.sh &
 * `VMESS WS NTLS`    : 80
 * `VMESS GRPC`       : 443
 * `NGINX`            : 81
-
-# OS Support
-* <b>DEBIAN</b>
-* `Debian 9` (Strecth) ✓
-* `Debian 10` (Buster) ✓ [<b>recommended</b>]
-* `Debian 11` (Bullseye) ✓
-* <b>UBUNTU</b>
-* `Ubuntu 18.04` (Bionic Beaver) ✓
-* `Ubuntu 20.04` (Focal Fossa) ✓
 
 # Pict Before Installation
 
