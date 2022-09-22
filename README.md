@@ -25,7 +25,7 @@
 
 # OS Support
 * `Debian 9` (Strecth)
-* `Debian 10` (Buster) *RECOMMENDED*
+* `Debian 10` (Buster) _RECOMMENDED_
 * `Debian 11` (Bullsye)
 * `Ubuntu 18.04` (Bionic Beaver)
 * `Ubuntu 20.04` (Focal Fossa)
