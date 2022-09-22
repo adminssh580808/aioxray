@@ -23,6 +23,13 @@
 * `VMESS GRPC`       : 443
 * `NGINX`            : 81
 
+# OS Support
+* `Debian 9` (Strecth)
+* `Debian 10` (Buster) *RECOMMENDED*
+* `Debian 11` (Bullsye)
+* `Ubuntu 18.04` (Bionic Beaver)
+* `Ubuntu 20.04` (Focal Fossa)
+
 # Req IP bisa langsung Hub Contacts dibawah GRATIS
 * `Facebook:` https://www.facebook.com/zan404
 * `Telegram:` https://t.me/mfauzan58
