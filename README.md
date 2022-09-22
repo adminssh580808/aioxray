@@ -21,10 +21,12 @@ wget -q https://raw.githubusercontent.com/adminssh580808/aioxray/main/setup.sh &
 * `NGINX`            : 81
 
 # OS Support
+<br>
  <b>DEBIAN</b>
 * `Debian 9` (Strecth) ✓
 * `Debian 10` (Buster) ✓ [<b>recommended</b>]
 * `Debian 11` (Bullseye) ✓
+<br>
  <b>UBUNTU</b>
 * `Ubuntu 18.04` (Bionic Beaver) ✓
 * `Ubuntu 20.04` (Focal Fossa) ✓
