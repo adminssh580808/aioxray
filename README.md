@@ -1,5 +1,5 @@
 <h2 align="center">
-AUTOSCRIPT PREMIUM</h2>
+AUTOSCRIPT XRAY</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/VERSION-2.0 (MULTIPORT)-blue.svg"></h2>
 </p>
