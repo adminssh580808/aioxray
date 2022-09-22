@@ -4,7 +4,7 @@ SCRIPT XRAY VPN ONE CLICK</h2>
 <img src="https://img.shields.io/badge/VERSION-2.0 (MULTIPORT)-green.svg"></h2>
 </p>
 <p align="center"><img src="https://d33wubrfki0l68.cloudfront.net/5911c43be3b1da526ed609e9c55783d9d0f6b066/9858b/assets/img/debian-ubuntu-hover.png"></p> 
-<br>
+
 # OS Supported
 * <b>DEBIAN</b>
 * `Debian 9` (Strecth) ✓
@@ -13,16 +13,18 @@ SCRIPT XRAY VPN ONE CLICK</h2>
 * <b>UBUNTU</b>
 * `Ubuntu 18.04` (Bionic Beaver) ✓
 * `Ubuntu 20.04` (Focal Fossa) ✓
-<br>
+
 # Update & Upgrade Repo
+
 ```
 apt --fix-missing update && apt update && apt upgrade -y && apt install -y wget screen && update-grub && reboot
 ```
+
 # Copy Paste ke VPS Fresh (new) & Pastikan Punya Domain Aktif Sebelum Menjalankan Script
 ```
 wget -q https://raw.githubusercontent.com/adminssh580808/aioxray/main/setup.sh && chmod +x setup.sh && ./setup.sh
 ```
-<br>
+
 # Fitur & Service
 * `NGINX`              : 81
 * `SHADOWSOCKS WS`     : 443
