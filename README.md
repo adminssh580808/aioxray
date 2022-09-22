@@ -10,11 +10,10 @@ SCRIPT XRAY VPN ONE CLICK</h2>
 * `Debian 9` (Strecth) ✓
 * `Debian 10` (Buster) ✓ [<b>recommended</b>]
 * `Debian 11` (Bullseye) ✓
-<br>
 * <b>UBUNTU</b>
 * `Ubuntu 18.04` (Bionic Beaver) ✓
 * `Ubuntu 20.04` (Focal Fossa) ✓
-<br>
+*
 * <b>RAM VPS minimal 1 GB</b>
 
 # Update & Upgrade Repo
