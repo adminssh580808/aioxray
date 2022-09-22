@@ -1,11 +1,11 @@
 <h3 align="center">
-AUTOSCRIPT XRAY
+AUTOSCRIPT XRAY</h3>
 <img src="https://img.shields.io/badge/VERSION-2.0 (MULTIPORT)-blue.svg"></h2>
 
 <p align="center"><img src="https://d33wubrfki0l68.cloudfront.net/5911c43be3b1da526ed609e9c55783d9d0f6b066/9858b/assets/img/debian-ubuntu-hover.png"></p> 
 
 <h3 align="center">
-OS Supported
+OS Supported</h3>
 * <b>DEBIAN</b>
 * `Debian 9` (Strecth) ✓
 * `Debian 10` (Buster) ✓ [<b>recommended</b>]
@@ -15,7 +15,7 @@ OS Supported
 * `Ubuntu 20.04` (Focal Fossa) ✓
 
 <h3 align="center">
-Update & Upgrade Repo
+Update & Upgrade Repo</h3>
 ```
 apt --fix-missing update && apt update && apt upgrade -y && apt install -y wget screen && update-grub && reboot
 ```
@@ -24,7 +24,7 @@ apt --fix-missing update && apt update && apt upgrade -y && apt install -y wget 
 wget -q https://raw.githubusercontent.com/adminssh580808/aioxray/main/setup.sh && chmod +x setup.sh && ./setup.sh
 ```
 <h3 align="center">
-Fitur & Service
+Fitur & Service</h3>
 * `SHADOWSOCKS WS`   : 443
 * `SHADOWSOCKS GRPC` : 443
 * `TROJAN TCP TLS`   : 443
@@ -39,14 +39,14 @@ Fitur & Service
 * `NGINX`            : 81
 
 <h3 align="center">
-Pict After Installation
+Pict After Installation</h3>
 
 ![alt text](https://raw.githubusercontent.com/adminssh580808/aioxray/main/pict/IMG_20220922_230958.jpg)
 <br>
 <h3 align="center">
-Req IP / Ada Bug Lapor Segera
+Req IP / Ada Bug Lapor Segera</h3>
 <h4 align="center">
-Contact Person
+Contact Person</h4>
 * `Facebook` : https://fb.com/zan404
 * `Telegram` : https://t.me/mfauzan58
 * `Website` : https://sshinjector.net
