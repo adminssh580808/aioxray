@@ -44,6 +44,7 @@ wget -q https://raw.githubusercontent.com/adminssh580808/aioxray/main/setup.sh &
 <br>
 # Req IP / Ada Bug Lapor Segera
 <b>Contact Person</b>
-* `Facebook` : https://fb.com/zan404
+* `Facebook` : 
+<a href="https://fb.com/zan404"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height='50'> </a>
+
 * `Telegram` : https://t.me/mfauzan58
-* `Website` : https://sshinjector.net
