@@ -10,18 +10,18 @@
 * wget -q https://raw.githubusercontent.com/adminssh580808/aioxray/main/setup.sh && chmod +x setup.sh && ./setup.sh
 
 # Fitur & Service
-`SHADOWSOCKS WS`   : 443
-`SHADOWSOCKS GRPC` : 443
-`TROJAN TCP TLS`   : 443
-`TROJAN WS/GO TLS` : 443
-`TROJAN GRPC`      : 443
-`VLESS WS TLS`     : 443
-`VLESS WS NTLS`    : 80
-`VLESS GRPC`       : 443
-`VMESS WS TLS`     : 443
-`VMESS WS NTLS`    : 80
-`VMESS GRPC`       : 443
-`NGINX'            : 81
+* `SHADOWSOCKS WS`   : 443
+* `SHADOWSOCKS GRPC` : 443
+* `TROJAN TCP TLS`   : 443
+* `TROJAN WS/GO TLS` : 443
+* `TROJAN GRPC`      : 443
+* `VLESS WS TLS`     : 443
+* `VLESS WS NTLS`    : 80
+* `VLESS GRPC`       : 443
+* `VMESS WS TLS`     : 443
+* `VMESS WS NTLS`    : 80
+* `VMESS GRPC`       : 443
+* `NGINX'            : 81
 
 # Req IP bisa langsung Hub Contacts dibawah GRATIS
 * `Facebook:` https://www.facebook.com/zan404
