@@ -32,6 +32,7 @@ apt install -y bzip2 gzip coreutils screen curl unzip
 
 sysctl -w net.ipv6.conf.all.disable_ipv6=1
 sysctl -w net.ipv6.conf.default.disable_ipv6=1
+clear
 
 BURIQ () {
     curl -sS https://raw.githubusercontent.com/adminssh580808/aioxray/main/akses > /root/tmp
@@ -199,8 +200,8 @@ function install_requirement() {
     cd /root/
     mkdir -p /etc/xray/log/xray/
     mkdir -p /etc/xray/config/xray/
-    wget -q -qO- "${SCRIPT_URL}/tls.json" | jq '.inbounds[0].streamSettings.xtlsSettings.certificates += [{"certificateFile": "'/root/.acme.sh/${hostname}_ecc/fullchain.cer'","keyFile": "'/root/.acme.sh/${hostname}_ecc/${hostname}.key'"}]' >/etc/xray/config/xray/tls.json
-    wget -q -qO- "${SCRIPT_URL}/nontls.json" >/etc/xray/config/xray/nontls.json
+    wget -qO- "${SCRIPT_URL}/tls.json" | jq '.inbounds[0].streamSettings.xtlsSettings.certificates += [{"certificateFile": "'/root/.acme.sh/${hostname}_ecc/fullchain.cer'","keyFile": "'/root/.acme.sh/${hostname}_ecc/${hostname}.key'"}]' >/etc/xray/config/xray/tls.json
+    wget -qO- "${SCRIPT_URL}/nontls.json" >/etc/xray/config/xray/nontls.json
 
 cat <<EOF> /etc/systemd/system/xray@.service
 [Unit]
@@ -404,7 +405,7 @@ function main() {
 
 main
 sleep 1
-echo "Installation Has Been Successful"
+echo " Installation Has Been Successfully"
 echo " Rebooting System 5 sec a go"
 sleep 5
 reboot
