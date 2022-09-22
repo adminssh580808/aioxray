@@ -26,7 +26,7 @@ wget -q https://raw.githubusercontent.com/adminssh580808/aioxray/main/setup.sh &
 # Fitur & Service
 * `SHADOWSOCKS WS`   : 443
 * `SHADOWSOCKS GRPC` : 443
-* `TROJAN TCP TLS`   : 443
+* `TROJAN-GFW TCP TLS`   : 443
 * `TROJAN WS/GO TLS` : 443
 * `TROJAN GRPC`      : 443
 * `VLESS WS TLS`     : 443
