@@ -1,4 +1,4 @@
-# UPDATE & UPGRADE REPO
+# Update & Upgrade repo
 apt --fix-missing update && apt update && apt upgrade -y && apt install -y wget screen && update-grub && reboot
 
 # Copy Paste ke vps & pastikan memiliki domain aktif
