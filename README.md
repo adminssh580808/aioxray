@@ -41,7 +41,6 @@ wget -q https://raw.githubusercontent.com/adminssh580808/aioxray/main/setup.sh &
 * `VMESS WS NTLS`      : 80
 * `VMESS GRPC`         : 443
 
-<br>
 # Pict After Installation
 
 ![alt text](https://raw.githubusercontent.com/adminssh580808/aioxray/main/pict/IMG_20220922_230958.jpg)
