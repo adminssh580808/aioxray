@@ -42,7 +42,7 @@ wget -q https://raw.githubusercontent.com/adminssh580808/aioxray/main/setup.sh &
 <br>
 
 # Req IP / Ada Bug Lapor Segera
-<b>Contact</b>
+<b>Contact Person</b>
 * `Facebook` : https://fb.com/zan404
 * `Telegram` : https://t.me/mfauzan58
 * `Website` : https://sshinjector.net
