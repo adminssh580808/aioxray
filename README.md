@@ -1,8 +1,3 @@
-# Pict Setelah di INSTALL
-
-![alt text](https://raw.githubusercontent.com/adminssh580808/aioxray/main/pict/IMG_20220922_153642.jpg)
-<br>
-
 # Update & Upgrade repo
 ```
 apt --fix-missing update && apt update && apt upgrade -y && apt install -y wget screen && update-grub && reboot
@@ -33,6 +28,11 @@ wget -q https://raw.githubusercontent.com/adminssh580808/aioxray/main/setup.sh &
 * <b>UBUNTU</b>
 * `Ubuntu 18.04` (Bionic Beaver) ✓
 * `Ubuntu 20.04` (Focal Fossa) ✓
+
+# Pict Setelah di INSTALL
+
+![alt text](https://raw.githubusercontent.com/adminssh580808/aioxray/main/pict/IMG_20220922_153642.jpg)
+<br>
 
 # Req IP bisa langsung Hub Contacts dibawah GRATIS
 * `Facebook:` https://www.facebook.com/zan404
