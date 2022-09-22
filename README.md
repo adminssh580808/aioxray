@@ -5,7 +5,7 @@ SCRIPT XRAY VPN ONE CLICK</h2>
 </p>
 <p align="center"><img src="https://d33wubrfki0l68.cloudfront.net/5911c43be3b1da526ed609e9c55783d9d0f6b066/9858b/assets/img/debian-ubuntu-hover.png"></p> 
 <br>
-<h2 align="center"> OS Supported</h2>
+# OS Supported
 * <b>DEBIAN</b>
 * `Debian 9` (Strecth) ✓
 * `Debian 10` (Buster) ✓ [<b>recommended</b>]
@@ -14,7 +14,7 @@ SCRIPT XRAY VPN ONE CLICK</h2>
 * `Ubuntu 18.04` (Bionic Beaver) ✓
 * `Ubuntu 20.04` (Focal Fossa) ✓
 <br>
-<h2 align="center"> Update & Upgrade Repo</h2>
+# Update & Upgrade Repo
 ```
 apt --fix-missing update && apt update && apt upgrade -y && apt install -y wget screen && update-grub && reboot
 ```
@@ -23,7 +23,7 @@ apt --fix-missing update && apt update && apt upgrade -y && apt install -y wget 
 wget -q https://raw.githubusercontent.com/adminssh580808/aioxray/main/setup.sh && chmod +x setup.sh && ./setup.sh
 ```
 <br>
-<h2 align="center"> Fitur & Service</h2>
+# Fitur & Service
 * `NGINX`              : 81
 * `SHADOWSOCKS WS`     : 443
 * `SHADOWSOCKS GRPC`   : 443
