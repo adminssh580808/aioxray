@@ -24,11 +24,11 @@
 * `NGINX`            : 81
 
 # OS Support
-*    DEBIAN
+* <b>DEBIAN</b>
 * `Debian 9` (Strecth) ✓
-* `Debian 10` (Buster) ✓ [recommended]
+* `Debian 10` (Buster) ✓ [<b>recommended</b>]
 * `Debian 11` (Bullsye) ✓
-*    UBUNTU
+* <b>UBUNTU</b>
 * `Ubuntu 18.04` (Bionic Beaver) ✓
 * `Ubuntu 20.04` (Focal Fossa) ✓
 
