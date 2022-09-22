@@ -1,7 +1,7 @@
 <h3 align="center">
 AUTOSCRIPT PREMIUM</h3>
 <img src="https://img.shields.io/badge/VERSION-2.0 (MULTIPORT)-blue.svg"></h2>
-
+</p>
 <p align="center"><img src="https://d33wubrfki0l68.cloudfront.net/5911c43be3b1da526ed609e9c55783d9d0f6b066/9858b/assets/img/debian-ubuntu-hover.png"></p> 
 
 # OS Supported
