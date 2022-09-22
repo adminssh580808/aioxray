@@ -5,4 +5,5 @@
 # Copy Paste ke vps & pastikan memiliki domain aktif
 * wget -q https://raw.githubusercontent.com/adminssh580808/aioxray/main/setup.sh && chmod +x setup.sh && ./setup.sh
 *
-* Thanks you for support https://www.sshinjector.net
+* `Thanks you for support https://www.sshinjector.net`
+*
