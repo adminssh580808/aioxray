@@ -44,4 +44,4 @@ wget -q https://raw.githubusercontent.com/adminssh580808/aioxray/main/setup.sh &
 <b> Req IP Bisa Langsung Hub Contacts Dibawah Gratis</b>
 * `Facebook` : https://fb.com/zan404
 * `Telegram` : https://t.me/mfauzan58
-* `Wbsite` : https://sshinjector.net
+* `Website` : https://sshinjector.net
