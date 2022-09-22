@@ -21,7 +21,7 @@
 * `VMESS WS TLS`     : 443
 * `VMESS WS NTLS`    : 80
 * `VMESS GRPC`       : 443
-* `NGINX'            : 81
+* `NGINX`            : 81
 
 # Req IP bisa langsung Hub Contacts dibawah GRATIS
 * `Facebook:` https://www.facebook.com/zan404
