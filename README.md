@@ -1,5 +1,5 @@
 <h2 align="center">
-AUTOSCRIPT XRAY ZAN404
+AUTOSCRIPT XRAY
 <img src="https://img.shields.io/badge/Version-2.0 (Xray Multiport Edition)-blue.svg"></h2>
 
 </p> 
