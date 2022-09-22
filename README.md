@@ -11,11 +11,9 @@ SCRIPT XRAY VPN ONE CLICK</h2>
 * `Debian 10` (Buster) ✓ [<b>recommended</b>]
 * `Debian 11` (Bullseye) ✓
 <br>
-<br>
 * <b>UBUNTU</b>
 * `Ubuntu 18.04` (Bionic Beaver) ✓
 * `Ubuntu 20.04` (Focal Fossa) ✓
-<br>
 <br>
 * <b>RAM VPS minimal 1 GB</b>
 
